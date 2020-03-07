@@ -1,2 +1,2 @@
-# Arma 3 SQF Scripts
-Various SQF scripts for modding Arma 3.
+# Arma 3 Addons & Scripts
+Various SQF scripts, images and addons for modding Arma 3.
