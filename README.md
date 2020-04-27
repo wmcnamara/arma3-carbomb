@@ -8,6 +8,6 @@ To use this in your scenario, follow these instructions:
 3. Make sure "carbomb.sqf" is in the same folder as your mission file.
 4. Walk up to your car, arm it in the action menu, and wait for a victim (:
 
-/////INIT CODE///////
+## INIT CODE
 _thisVehicle = vehicleVarName this; 
 this addAction ["Arm With Carbomb", "carbomb.sqf", ["_thisVehicle"], 1, false, true, "", "true", 5, false, "", ""];
