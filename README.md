@@ -1,4 +1,4 @@
-# Carbomb Arma 3 Script
+# Arma 3 Carbomb Script
 Simple Arma 3 SQF script for creating a carbomb. Do what you want with it.
 
 To use this in your scenario, follow these instructions:
