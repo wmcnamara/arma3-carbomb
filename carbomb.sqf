@@ -1,5 +1,4 @@
-//Copyright 2020, Weston McNamara, All rights reserved.
-
+//Created in Canada by Weston McNamara
 hint "Vehicle Now Armed";
 _this select 0 addEventHandler 
 [
