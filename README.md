@@ -11,5 +11,7 @@ To use this in your scenario, follow these instructions:
 If you're still confused, feel free to check out the official [Steam Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2126528648)!
 
 ## INIT CODE
+~~~
 _thisVehicle = vehicleVarName this; 
 this addAction ["Arm With Carbomb", "carbomb.sqf", ["_thisVehicle"], 1, false, true, "", "true", 5, false, "", ""];
+~~~
